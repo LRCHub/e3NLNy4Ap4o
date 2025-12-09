@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イト（instrumental）",
+  "base_artist": "Van de Shop",
+  "createdAt": "2025-12-09T08:01:17.893905Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イト",
+      "artist": "Van de Shop",
+      "has_synced": false,
+      "path": "select/pl_01_イト_Van_de_Shop.txt"
+    }
+  ]
+}
